@@ -2,9 +2,9 @@ Origin content via Andrew Ng.
 Note by Z.
 ## Setting dev & test set
 
-Training set -- for training algo.
-Dev set -- for tune parameters & select features.
-Test set -- just for evaluate performance.
+* Training set -- for training algo.
+* Dev set -- for tune parameters & select features.
+* Test set -- just for evaluate performance.
 
 **These sets direct the most important changes of your project.**
 
@@ -15,8 +15,8 @@ Dev set should big enough to find difference from various algos, so to test set.
 While in big data area, even the numbers of total examples increased, the fraction of test & dev set are shrinked.
 
 Single metric in optimizing.  
-&emsp;&emsp;Satisficing metric: must 
-&emsp;&emsp;Optimixing metric: better
+* &emsp;&emsp;Satisficing metric: must 
+* &emsp;&emsp;Optimixing metric: better
 
 Iterate quickly to measure the model performance frequently.
 
