@@ -29,5 +29,4 @@ Make sure that your dev & test set from same distribution even if it is differen
 
 ## Basic Error Analysis
 **Don't start off trying build perfect system. Build your basic system quickly, then iterate.**
-
-
+If you want to modify your model, you'd better analysis the accont that the factor takes to make sure that this change will make sense obviously.
