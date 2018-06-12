@@ -1,3 +1,5 @@
+Origin content via Andrew Ng.
+Note by Z.
 ## Setting dev & test set
 
 Training set -- for training algo.
@@ -22,7 +24,10 @@ Choose test & dev set and metrics first to determine the aim of team.
 
 **It is better to come up with something imperfect and get going quickly, rather than overthink this.**
 
+Make sure that your dev & test set from same distribution even if it is different from training set.
 
 
+## Basic Error Analysis
+**Don't start off trying build perfect system. Build your basic system quickly, then iterate.**
 
 
